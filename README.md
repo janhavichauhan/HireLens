@@ -392,5 +392,6 @@ streamlit run app_llm.py  # Terminal 2
 **Questions?** Check **SETUP.md** or review the troubleshooting section above.
 
 ---
+<img width="863" height="397" alt="image (2)" src="https://github.com/user-attachments/assets/6ed7acfb-583d-40f5-9d8a-8c5c30c9fa3f" />
 
 **Happy interviewing! 🚀**
